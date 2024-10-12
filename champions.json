@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Ahri",
+        "role": "Mage",
+        "image": "images/ahri.jpg",
+        "health": 526,
+        "mana": 418,
+        "abilities": ["Orb of Deception", "Fox-Fire", "Charm", "Spirit Rush"]
+    },
+    {
+        "name": "Garen",
+        "role": "Tank",
+        "image": "images/garen.jpg",
+        "health": 620,
+        "abilities": ["Decisive Strike", "Courage", "Judgment", "Demacian Justice"]
+    },
+    {
+        "name": "Zed",
+        "role": "Assassin",
+        "image": "images/zed.jpg",
+        "health": 579,
+        "abilities": ["Razor Shuriken", "Living Shadow", "Shadow Slash", "Death Mark"]
+    },
+    {
+        "name": "Jinx",
+        "role": "Marksman",
+        "image": "images/jinx.jpg",
+        "health": 560,
+        "abilities": ["Switcheroo!", "Zap!", "Flame Chompers!", "Super Mega Death Rocket!"]
+    },
+    {
+        "name": "Lux",
+        "role": "Mage",
+        "image": "images/lux.jpg",
+        "health": 490,
+        "abilities": ["Light Binding", "Prismatic Barrier", "Lucent Singularity", "Final Spark"]
+    },
+    {
+        "name": "Darius",
+        "role": "Fighter",
+        "image": "images/darius.jpg",
+        "health": 582,
+        "abilities": ["Decimate", "Crippling Strike", "Apprehend", "Noxian Guillotine"]
+    },
+    {
+        "name": "Leona",
+        "role": "Tank",
+        "image": "images/leona.jpg",
+        "health": 576,
+        "abilities": ["Shield of Daybreak", "Eclipse", "Zenith Blade", "Solar Flare"]
+    },
+    {
+        "name": "Ezreal",
+        "role": "Marksman",
+        "image": "images/ezreal.jpg",
+        "health": 500,
+        "abilities": ["Mystic Shot", "Essence Flux", "Arcane Shift", "Trueshot Barrage"]
+    }
+]

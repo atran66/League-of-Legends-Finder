@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>League of Legends Character Finder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>League of Legends Character Finder</h1>
+    </header>
+
+    <main>
+        <section class="search">
+            <input type="text" id="search-bar" placeholder="Search for a champion...">
+        </section>
+
+        <section class="filter">
+            <label for="role-filter">Filter by role:</label>
+            <select id="role-filter">
+                <option value="All">All</option>
+                <option value="Mage">Mage</option>
+                <option value="Tank">Tank</option>
+                <option value="Assassin">Assassin</option>
+                <option value="Marksman">Marksman</option>
+            </select>
+        </section>
+
+        <section class="results" id="results">
+        </section>
+    </main>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
